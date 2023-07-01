@@ -1,4 +1,4 @@
-%this is the main file of the Matlab application
+% This file is the main file of the Matlab application
 
 % test_benign
 % test_benign
