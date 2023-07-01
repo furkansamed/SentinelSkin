@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "feature_selection_classification_and_validation", "feature_selection_classification_and_validation.pyproj", "{58E8CB0A-F49F-4733-93DD-15C80F2FE6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E8CB0A-F49F-4733-93DD-15C80F2FE6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E8CB0A-F49F-4733-93DD-15C80F2FE6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293556EA-0A9D-4188-98FE-D4CCDEAFED95}
+	EndGlobalSection
+EndGlobal
